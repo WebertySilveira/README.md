@@ -65,4 +65,4 @@ TABELA
 IMAGEM
 
 
-![](https://img2.gratispng.com/20180715/oou/kisspng-computer-icons-github-logo-social-media-github-icon-5b4bc36d0a6107.2690028815316918850425.jpg)
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
