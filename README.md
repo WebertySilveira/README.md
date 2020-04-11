@@ -1,4 +1,5 @@
-# README.md
+# ESTILIZANDO O README.MD
+Os estilos foram feitos com MARKDOWN, para acessar os comandos basta clicar em RAW.
 
 -----------------------------------
 HEADER (LISTA ORDENADA)
